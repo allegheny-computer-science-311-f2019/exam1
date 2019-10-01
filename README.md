@@ -13,8 +13,8 @@ Please type your answers directly in the `exam1.md`. This is a Markdown file tha
 adhere to the standards described in the
 [Markdown Syntax Guide](https://guides.github.com/features/mastering-markdown/).
 Remember, an individual completing this assignment can preview the contents of a
-Markdown file in `atom` by clicking ``Packages'', ``Markdown Preview'', and then
-``Toggle Preview''.
+Markdown file in `atom` by clicking on "Packages", "Markdown Preview", and then
+"Toggle Preview".
 
 The exam is to be submitted via student's own exam1 GitHub repository using 
 `git commit` and `git push` command. 
